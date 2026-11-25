@@ -1,0 +1,30 @@
+# Unreal generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/*/
+!Build/*/Resources/
+.vs/
+*.xcworkspace
+*.xcodeproj
+.DS_Store
+# Plugin build output
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# Python
+__pycache__/
+*.pyc
+
+# Marketplace packs: re-download from Fab, too large for plain git
+Content/ParagonMinions/
+
+# Generated terrain source (rebuild with Scripts/worldgen/serraths_scar_gen.py)
+WorldData/**/*.scarmesh
+WorldData/Art/Meshes/*.scarmesh
+WorldData/Art/Textures/*.png
+WorldData/Art/Textures/*.jpg
+WorldData/Art/Textures_procedural/
+WorldData/Art/Scans/**/*.scarmesh
+WorldData/Art/Scans/**/*.jpg
