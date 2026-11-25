@@ -32,6 +32,6 @@ The hero is **Paragon: Sun Wukong** by Epic Games (free on Fab). Fab's license d
 
 ## Notes
 
-Developed with AI coding assistance. The design, asset choices, integration, playtesting and version control are mine.
+The design, asset choices, integration, playtesting and version control are mine.
 
 **© 2026 Tawonashe Mapako. All rights reserved.** This code is shared for viewing only. No license is granted to copy, modify or redistribute it.
